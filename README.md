@@ -1,8 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumaiya+Shabab" alt="Hi, I'm Sumaiya Shabab">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F97316,100:00BFA6&height=180&section=header&text=Hi,%20I'm%20Sumaiya%20Shabab&fontSize=36&fontColor=ffffff&fontAlignY=38&fontWeight=800" width="100%" />
 </p>
 
-### B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-00BFA6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20%7C%20DSA-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building%20Projects-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning%20Every%20Day-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-14B8A6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>Turning ideas into code and building things that matter.</i>
+</p>
 
 I'm a Computer Science student passionate about building practical applications, exploring Artificial Intelligence, and improving my problem-solving skills through Data Structures & Algorithms.
 
