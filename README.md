@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  
   <i>Always learning. Always building.</i>
 </p>
+
 
 I'm a Computer Science student passionate about building practical applications, exploring Artificial Intelligence, and improving my problem-solving skills through Data Structures & Algorithms.
 
