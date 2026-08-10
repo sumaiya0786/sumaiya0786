@@ -1,6 +1,4 @@
-<h1><font color="#F97316">Hi, I'm Sumaiya Shabab</font></h1>
-
-
+# Hi, I'm Sumaiya Shabab
 
 ### B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
@@ -14,7 +12,7 @@ I'm a Computer Science student passionate about building practical applications,
 * 🌱 I’m currently learning **Data Structures & Algorithms, Full-Stack Web Development, and Artificial Intelligence.**
 * 🤝 I’m looking to collaborate on **AI-powered projects and innovative full-stack applications.**
 * 💬 Ask me about **Java, DSA, Full-Stack Web Development, and AI projects.**
-* 📫 Check out my **[Portfolio](https://new-portfolio-27jul8pm.vercel.app/)**
+* 📫 Check out my [**Portfolio**](https://new-portfolio-27jul8pm.vercel.app/)
 
 ---
 
@@ -55,7 +53,8 @@ A full-stack food delivery platform built for managing cloud kitchens, menus, cu
 
 **Tech:** MongoDB · Express.js · Node.js · JavaScript
 
-[![GitHub](https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/sumaiya0786/foodie)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/sumaiya0786/foodie)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://foodie-bpkr.onrender.com/)
 
 ---
@@ -79,7 +78,7 @@ A Chrome extension designed to simplify job applications by storing user informa
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya0786&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya0786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya0786&layout=compact&hide_border=true" height="180"/>
 </p>
 
@@ -122,23 +121,40 @@ A Chrome extension designed to simplify job applications by storing user informa
 
 ---
 
+# GitHub Stats
+
+<p align="center">
+
+![Total Stars](https://img.shields.io/github/stars/sumaiya0786?style=for-the-badge\&label=Total%20Stars)
+
+![Repositories](https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge\&logo=github\&logoColor=white)
+
+![Followers](https://img.shields.io/github/followers/sumaiya0786?style=for-the-badge\&label=Followers)
+
+</p>
+
+---
+
 # Let's Connect
 
 <p align="center">
-  <a href="https://github.com/sumaiya0786">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://new-portfolio-27jul8pm.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sumaiya0786)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://new-portfolio-27jul8pm.vercel.app/)
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumaiya0786&label=Profile%20Views&color=0e75b6&style=flat" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumaiya0786\&label=Profile%20Views\&color=F97316\&style=for-the-badge)
+
 </p>
 
 <p align="center">
-  <b>Keep coding. Keep building. Keep learning.</b>
+
+**Keep coding. Keep building. Keep learning.**
+
 </p>
