@@ -1,6 +1,9 @@
 <h1 align="left">
   <span style="color:#F97316;">Hi, I'm Sumaiya Shabab</span>
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sumaiya+Shabab" alt="Hi, I'm Sumaiya Shabab"/>
+</p>
 
 ### B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
