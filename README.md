@@ -1,28 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,45:FF1493,75:FF6B00,100:00D4FF&height=220&section=header&text=Hi,%20I'm%20Sumaiya%20Shabab&fontSize=42&fontColor=FFFFFF&fontAlignY=38&fontWeight=900&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-7F00FF?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-FF1493?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA%20%7C%20DSA-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILDING%20PROJECTS-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEARNING%20EVERY%20DAY-00C896?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATE-FF4D6D?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Turning ideas into code • Building practical applications • Exploring AI</b>
-</p>
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
-
-
 I'm a Computer Science student passionate about building practical applications, exploring Artificial Intelligence, and improving my problem-solving skills through Data Structures & Algorithms.
 
 ---
@@ -41,28 +16,36 @@ I'm a Computer Science student passionate about building practical applications,
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -74,9 +57,9 @@ A full-stack food delivery platform built for managing cloud kitchens, menus, cu
 
 **Tech:** MongoDB · Express.js · Node.js · JavaScript
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/sumaiya0786/foodie)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/sumaiya0786/foodie)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://foodie-bpkr.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A67E?style=for-the-badge)](https://foodie-bpkr.onrender.com/)
 
 ---
 
@@ -99,8 +82,8 @@ A Chrome extension designed to simplify job applications by storing user informa
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya0786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya0786&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya0786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya0786&layout=compact&hide_border=true" height="180" />
 </p>
 
 ---
@@ -116,7 +99,7 @@ A Chrome extension designed to simplify job applications by storing user informa
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya0786&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya0786&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -124,7 +107,7 @@ A Chrome extension designed to simplify job applications by storing user informa
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumaiya0786&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumaiya0786&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
 </p>
 
 ---
@@ -132,7 +115,7 @@ A Chrome extension designed to simplify job applications by storing user informa
 # GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaiya0786&theme=github_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaiya0786&theme=github_dark" width="100%" />
 </p>
 
 ---
@@ -140,13 +123,9 @@ A Chrome extension designed to simplify job applications by storing user informa
 # GitHub Stats
 
 <p align="center">
-
-![Total Stars](https://img.shields.io/github/stars/sumaiya0786?style=for-the-badge\&label=Total%20Stars)
-
-![Followers](https://img.shields.io/github/followers/sumaiya0786?style=for-the-badge\&label=Followers)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumaiya0786\&label=Profile%20Views\&style=for-the-badge)
-
+  <img src="https://img.shields.io/github/stars/sumaiya0786?style=for-the-badge&label=Total%20Stars&logo=github" />
+  <img src="https://img.shields.io/github/followers/sumaiya0786?style=for-the-badge&label=Followers&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=sumaiya0786&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
@@ -154,17 +133,16 @@ A Chrome extension designed to simplify job applications by storing user informa
 # Let's Connect
 
 <p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sumaiya0786)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://new-portfolio-27jul8pm.vercel.app/)
-
+  <a href="https://github.com/sumaiya0786">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://new-portfolio-27jul8pm.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-**Keep coding. Keep building. Keep learning.**
-
+  <b>Keep coding. Keep building. Keep learning.</b>
 </p>
