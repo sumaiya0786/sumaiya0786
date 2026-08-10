@@ -1,4 +1,6 @@
-# Hi, I'm Sumaiya Shabab
+<h1 align="center">
+  <span style="color:#F97316;">Hi, I'm Sumaiya Shabab</span>
+</h1>
 
 ### B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
