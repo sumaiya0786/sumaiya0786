@@ -1,24 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F97316,100:00BFA6&height=180&section=header&text=Hi,%20I'm%20Sumaiya%20Shabab&fontSize=36&fontColor=ffffff&fontAlignY=38&fontWeight=800" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,45:FF1493,75:FF6B00,100:00D4FF&height=220&section=header&text=Hi,%20I'm%20Sumaiya%20Shabab&fontSize=42&fontColor=FFFFFF&fontAlignY=38&fontWeight=900&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-00BFA6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-7F00FF?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-FF1493?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA%20%7C%20DSA-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20%7C%20DSA-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building%20Projects-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BUILDING%20PROJECTS-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARNING%20EVERY%20DAY-00C896?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATE-FF4D6D?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning%20Every%20Day-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-14B8A6?style=for-the-badge" />
+  <b>Turning ideas into code • Building practical applications • Exploring AI</b>
 </p>
 
 <p align="center">
-  <i>Turning ideas into code and building things that matter.</i>
+  <i>Always learning. Always building.</i>
 </p>
 
 I'm a Computer Science student passionate about building practical applications, exploring Artificial Intelligence, and improving my problem-solving skills through Data Structures & Algorithms.
