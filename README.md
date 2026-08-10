@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-FF0080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FULL--STACK-7B2FFF?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/FULL--STACK-7B2FFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-FF0080?style=for-the-badge" />
+
 </p>
 
 <p align="center">
