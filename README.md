@@ -19,6 +19,7 @@
 </p>
 
 <p align="center">
+    <i>Turning ideas into code and building things that matter.</i>
   <i>Always learning. Always building.</i>
 </p>
 
