@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sumaiya+Shabab" alt="Hi, I'm Sumaiya Shabab"/>
-</p>
+# Hi, I'm Sumaiya Shabab
 
 ### B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
@@ -116,11 +114,6 @@ A Chrome extension designed to simplify job applications by storing user informa
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaiya0786&theme=github_dark" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumaiya0786&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumaiya0786&theme=github_dark" />
-</p>
-
 ---
 
 # GitHub Stats
@@ -129,9 +122,9 @@ A Chrome extension designed to simplify job applications by storing user informa
 
 ![Total Stars](https://img.shields.io/github/stars/sumaiya0786?style=for-the-badge\&label=Total%20Stars)
 
-![Repositories](https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge\&logo=github\&logoColor=white)
-
 ![Followers](https://img.shields.io/github/followers/sumaiya0786?style=for-the-badge\&label=Followers)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumaiya0786\&label=Profile%20Views\&style=for-the-badge)
 
 </p>
 
@@ -148,12 +141,6 @@ A Chrome extension designed to simplify job applications by storing user informa
 </p>
 
 ---
-
-<p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumaiya0786\&label=Profile%20Views\&color=F97316\&style=for-the-badge)
-
-</p>
 
 <p align="center">
 
