@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <span style="color:#F97316;">Hi, I'm Sumaiya Shabab</span>
 </h1>
 
