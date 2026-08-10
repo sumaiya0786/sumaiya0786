@@ -1,19 +1,162 @@
-\<p align="center">
-  \<img src="[https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=1&pause=100000&color=F97316&center=true&vCenter=true&width=750&lines=Hi%2C+I](https://readme-typing-svg.demolab.com?font=Poppins\&weight=800\&size=42\&duration=1\&pause=100000\&color=F97316\&center=true\&vCenter=true\&width=750\&lines=Hi%2C+I)'m+Sumaiya+Shabab" alt="Hi, I'm Sumaiya Shabab">
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,25:9D00FF,50:FF0080,75:FF4D00,100:00D4FF&height=240&section=header&text=Hi,%20I'm%20Sumaiya%20Shabab&fontSize=44&fontColor=ffffff&fontAlignY=40&fontWeight=900&animation=fadeIn" width="100%" />
+</p>
 
-\<p align="center">
-  \<img src="[https://img.shields.io/badge/Full--Stack%20Developer-6C63FF?style=for-the-badge](https://img.shields.io/badge/Full--Stack%20Developer-6C63FF?style=for-the-badge)" />
-  \<img src="[https://img.shields.io/badge/AI%20Enthusiast-00BFA6?style=for-the-badge](https://img.shields.io/badge/AI%20Enthusiast-00BFA6?style=for-the-badge)" />
-  \<img src="[https://img.shields.io/badge/Java%20%7C%20DSA-F97316?style=for-the-badge](https://img.shields.io/badge/Java%20%7C%20DSA-F97316?style=for-the-badge)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-FF0080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FULL--STACK-7B2FFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JAVA-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-00C2FF?style=for-the-badge" />
+</p>
 
-\<p align="center">
-  \<img src="[https://img.shields.io/badge/Building%20Projects-F43F5E?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Building%20Projects-F43F5E?style=for-the-badge\&logo=github\&logoColor=white)" />
-  \<img src="[https://img.shields.io/badge/Learning%20Every%20Day-8B5CF6?style=for-the-badge](https://img.shields.io/badge/Learning%20Every%20Day-8B5CF6?style=for-the-badge)" />
-  \<img src="[https://img.shields.io/badge/Open%20to%20Collaborate-14B8A6?style=for-the-badge](https://img.shields.io/badge/Open%20to%20Collaborate-14B8A6?style=for-the-badge)" />
-\</p>
+<p align="center">
+  <b>Code. Create. Learn. Repeat.</b>
+</p>
 
-\<p align="center">
-  \<i>Turning ideas into code and building things that matter.\</i>
-\</p> i like this
+---
+
+I'm a Computer Science student passionate about building practical applications, exploring Artificial Intelligence, and improving my problem-solving skills through Data Structures & Algorithms.
+
+---
+
+## About Me
+
+- 🔭 I’m currently working on **AI-powered projects, full-stack web applications, and strengthening my DSA skills in Java.**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Full-Stack Web Development, and Artificial Intelligence.**
+- 🤝 I’m looking to collaborate on **AI-powered projects and innovative full-stack applications.**
+- 💬 Ask me about **Java, DSA, Full-Stack Web Development, and AI projects.**
+- 📫 Check out my [**Portfolio**](https://new-portfolio-27jul8pm.vercel.app/)
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# Featured Projects
+
+## 🍴 Foodie – Full Stack Cloud Kitchen Platform
+
+A full-stack food delivery platform built for managing cloud kitchens, menus, customers, carts, orders, and authentication.
+
+**Tech:** MongoDB · Express.js · Node.js · JavaScript
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/sumaiya0786/foodie)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00A67E?style=for-the-badge)](https://foodie-bpkr.onrender.com/)
+
+---
+
+## 🤖 AI Podcast Studio
+
+An AI-powered application focused on generating podcast content using Artificial Intelligence, with a backend-oriented architecture.
+
+**Tech:** Java · Spring Boot · MySQL · AI APIs
+
+---
+
+## 💼 Job Assistant Autofill
+
+A Chrome extension designed to simplify job applications by storing user information and helping autofill application forms.
+
+**Tech:** HTML · CSS · JavaScript · Chrome Extension APIs · LocalStorage
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya0786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya0786&layout=compact&hide_border=true" height="180"/>
+</p>
+
+---
+
+# Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumaiya0786&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya0786&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumaiya0786&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+# GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaiya0786&theme=github_dark" width="100%"/>
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+![Total Stars](https://img.shields.io/github/stars/sumaiya0786?style=for-the-badge&label=Total%20Stars)
+
+![Followers](https://img.shields.io/github/followers/sumaiya0786?style=for-the-badge&label=Followers)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumaiya0786&label=Profile%20Views&style=for-the-badge)
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumaiya0786)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-27jul8pm.vercel.app/)
+
+</p>
+
+---
+
+<p align="center">
+
+**Keep coding. Keep building. Keep learning.**
+
+</p>
