@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Code. Create. Learn. Repeat.</b>
+  <b>Turning ideas into code and building things that matter.</b>
 </p>
 
 ---
